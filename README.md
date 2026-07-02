@@ -1,27 +1,21 @@
-# Folder structure
+# Rocket Rush
 
-- `src` - source code for your kaplay project
-- `dist` - distribution folder, contains your index.html, built js bundle and static assets
+A fast-paced, 2D arcade space-survival game built with JavaScript and the Kaplay game engine. Navigate your way through an asteroid field to make a safe touchdown on the moon!
 
+![Thumbnail](images/Thumbnail.png)
 
-## Development
+## Demo
 
-```sh
-$ npm run dev
-```
+[Insert your hosting link here e.g., Netlify, Vercel, or GitHub Pages]
 
-will start a dev server at http://localhost:8000
+## Features
 
-## Distribution
+* Simple single-button flight controls where pressing space toggles your vertical direction
+* Near Miss detection system
+* Constantly moving background
+* Start and Victory Screens (made using Kaplay scenes)
 
-```sh
-$ npm run build
-```
+## Controls
 
-will build your js files into `dist/`
-
-```sh
-$ npm run zip
-```
-
-will build your game and package into a .zip file, you can upload to your server or itch.io / newground etc.
+ SPACE (Tap) - Toggle vertical flight direction (Up / Down) 
+ SPACE (Hold) - Activates Hyperdrive (High Speed) 
