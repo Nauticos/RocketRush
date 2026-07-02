@@ -6,7 +6,7 @@ A fast-paced, 2D arcade space-survival game built with JavaScript and the Kaplay
 
 ## Demo
 
-[Insert your hosting link here e.g., Netlify, Vercel, or GitHub Pages]
+[\[Insert your hosting link here e.g., Netlify, Vercel, or GitHub Pages\]](https://nauticos.github.io/RocketRush/)
 
 ## Features
 
