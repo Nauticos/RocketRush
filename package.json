@@ -1,5 +1,5 @@
 {
-	"name": "my-awesome-game",
+	"name": "Rocket Rush",
 	"type": "module",
 	"scripts": {
 		"build": "vite build",
